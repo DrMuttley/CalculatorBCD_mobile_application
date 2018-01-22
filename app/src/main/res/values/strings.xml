@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculatorBCD</string>
+    <string name="title_activity_display_result">DisplayResultActivity</string>
+</resources>
